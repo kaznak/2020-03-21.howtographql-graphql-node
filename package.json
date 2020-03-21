@@ -1,0 +1,10 @@
+{
+  "name": "hackernews-node",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "kaznak <kaznak.at.work@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
